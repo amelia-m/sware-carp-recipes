@@ -1,2 +1,10 @@
+
 *.png
 receipts/
+
+# don't exclude data from receipts
+!receipts/data
+
+*.pdf
+**/*.docx
+
